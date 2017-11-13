@@ -1,0 +1,1 @@
+  ./scripts/prepare-kernel.sh –linux=../../linux-4.9.51/linux-4.9.51/ --ipipe=../../ipipe-core-4.9.51-x86-4.patch –arch=x86-4
