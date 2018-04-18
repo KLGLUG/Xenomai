@@ -1,4 +1,4 @@
-5. 1 Asynchronous Multi Processing.C(for implementation of A.M.P)
+5. 1 Asynchronous Multi Processing (for implementation of A.M.P)
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <time.h>
