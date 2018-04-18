@@ -210,10 +210,6 @@ else {
 static void *worker_thread(void *iIdentity)
 {
 	
-
-
-
-
 	int identity = *(int*) iIdentity, iterations = ITERATIONS;
 	clock_t temp,st,en;
    	
